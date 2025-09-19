@@ -1,0 +1,6 @@
+C:\Users\najim\git-workflow-practice\git-csharp-practice\GitWorkflowPractice\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\najim\git-workflow-practice\git-csharp-practice\GitWorkflowPractice\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\najim\git-workflow-practice\git-csharp-practice\GitWorkflowPractice\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\najim\git-workflow-practice\git-csharp-practice\GitWorkflowPractice\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\najim\git-workflow-practice\git-csharp-practice\GitWorkflowPractice\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\najim\git-workflow-practice\git-csharp-practice\GitWorkflowPractice\MyLibrary\obj\Debug\MyLibrary.pdb
